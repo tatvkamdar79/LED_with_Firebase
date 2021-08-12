@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>                                               
 #include <FirebaseArduino.h>                                        
  
-#define FIREBASE_HOST "led-with-firebase-4a7ef-default-rtdb.firebaseio.com"              // the project name address from firebase id
-#define FIREBASE_AUTH "7Z4eoNv88WCjcqCCzKl9Kln1Nz33Fmb68EsGyxI8"       // the secret key generated from firebase
+#define FIREBASE_HOST ""              // the project name address from firebase id
+#define FIREBASE_AUTH ""       // the secret key generated from firebase
 #define WIFI_SSID "Your_Wifi"                                          
 #define WIFI_PASSWORD "Your_Password"                                  
 #define led D1 
